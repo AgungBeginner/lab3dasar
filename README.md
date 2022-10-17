@@ -6,3 +6,6 @@ membuat dropdown dengan baris dan kolom ini tampilan code dan hasil nya
 
 ![gambar 2](screenshot/ss2.png)
 
+2. membuat list padaa html
+![gambar 3](screenshot/ss3.png)
+![gambar 4](screenshot/ss4.png)
